@@ -10,6 +10,6 @@ console.log(valueInNumber);
 
  // conversionOperation 
 // "33" => 33
-// "22abs"=> NaN
+// "22abs"=> NaN [Not a Number]
 // true => 1; false => 0
 // 
