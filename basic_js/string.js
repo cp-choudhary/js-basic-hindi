@@ -1,10 +1,5 @@
-let userOne = {
-    email: "cpchoudhary@gmail.com",
-    insta: "innocent_04"
-}
+const name = "CPChoudhary"
+const city = "Barmer"
 
-let userTwo = userOne
-userTwo.email = "cpjatt@gmail.com"
+console.log(`My name is ${name} and i'm from ${city}`);
 
-console.log(userTwo.email);
-console.log(userOne.email);
