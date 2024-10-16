@@ -1,6 +1,7 @@
 let userOne = {
-    email = "cpchoudhary09@gmail.com"
-};
+    email: "cpchoudhary@gmail.com",
+    insta: "innocent_04"
+}
 
 let userTwo = userOne
 userTwo.email = "cpjatt@gmail.com"
