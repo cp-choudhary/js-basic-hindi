@@ -27,7 +27,7 @@ const myFunction = function(){
 
 let userOne = {
     email: "cpchoudhary@gmail.com",
-    insta: "innocent_04"
+    insta: "innocent_jat04"
 }
 
 let userTwo = userOne
